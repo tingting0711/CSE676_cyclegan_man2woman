@@ -1,1 +1,1 @@
-# CSE676_cyclegan_man2woman
+# cse676_cycleGAN

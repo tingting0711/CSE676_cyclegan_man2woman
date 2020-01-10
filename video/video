@@ -1,0 +1,4 @@
+for i in {0..19}
+do
+  ffmpeg -framerate 6 -start_number 10 -i ${i}_%04d.png out_${i}.mp4 
+done
